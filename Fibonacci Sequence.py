@@ -12,4 +12,4 @@ if(n_terms<=0):
 else:
     print("Fibonacci Sequence:")
     for i in range(n_terms):
-        print(recur_fibonacci(i))
+        print(recur_fibonacci(i)) 
